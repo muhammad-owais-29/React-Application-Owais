@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Application-Owais/static/css/main.49cdc254.chunk.css",
+    "main.js": "/React-Application-Owais/static/js/main.29532d02.chunk.js",
+    "main.js.map": "/React-Application-Owais/static/js/main.29532d02.chunk.js.map",
+    "runtime-main.js": "/React-Application-Owais/static/js/runtime-main.1d041c45.js",
+    "runtime-main.js.map": "/React-Application-Owais/static/js/runtime-main.1d041c45.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/React-Application-Owais/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.19afb97a.chunk.js": "/React-Application-Owais/static/js/2.19afb97a.chunk.js",
+    "static/js/2.19afb97a.chunk.js.map": "/React-Application-Owais/static/js/2.19afb97a.chunk.js.map",
+    "index.html": "/React-Application-Owais/index.html",
+    "precache-manifest.08b999374f3efa5137e3e341e1720bcb.js": "/React-Application-Owais/precache-manifest.08b999374f3efa5137e3e341e1720bcb.js",
+    "service-worker.js": "/React-Application-Owais/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/React-Application-Owais/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.49cdc254.chunk.css.map": "/React-Application-Owais/static/css/main.49cdc254.chunk.css.map",
+    "static/js/2.19afb97a.chunk.js.LICENSE.txt": "/React-Application-Owais/static/js/2.19afb97a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d041c45.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.19afb97a.chunk.js",
+    "static/css/main.49cdc254.chunk.css",
+    "static/js/main.29532d02.chunk.js"
+  ]
+}
